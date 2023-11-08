@@ -3,3 +3,14 @@ pandas
 numpy
 seaborn
 matplotlib
+imblearn
+graphviz 
+matplotlib
+numpy 
+pandas
+plotly
+scipy
+six
+catboost
+ipywidgets
+xgboost
